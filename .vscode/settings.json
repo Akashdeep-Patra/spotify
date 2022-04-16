@@ -2,6 +2,8 @@
   "css.validate": false,
   "editor.formatOnSave": true,
   "editor.tabSize": 2,
+  "prettier.configPath": ".prettierrc.js",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.codeActionsOnSave": {
     "source.fixAll": true
   },
